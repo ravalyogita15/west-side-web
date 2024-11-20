@@ -1,0 +1,815 @@
+{
+  "images": [
+    {
+      "image": [
+        "https://www.westside.com/cdn/shop/files/Formals_Web_31cf47df-84be-4ab0-801f-a74ae90b968a.jpg?v=1720765854",
+        "https://www.westside.com/cdn/shop/files/WOMAN_Web_027e8295-69ef-40c3-b05c-c026a3647450.jpg?v=1720764052",
+        "https://www.westside.com/cdn/shop/files/DRESSES_Web_2cb9fa8a-10a8-401d-a824-b8c6009660db.jpg?v=1720764160",
+        "https://www.westside.com/cdn/shop/files/TOPS_SHIRTS_Web_21162271-6c2c-4bc1-9bba-894b9e2e7e0d.jpg?v=1720764647",
+        "https://www.westside.com/cdn/shop/files/Footwear_Web_a13a9b6b-e05a-4667-88b3-c9b129b70d72.jpg?v=1719994115",
+        "https://www.westside.com/cdn/shop/files/SLEEPWEAR_Web_be08afdd-e68e-4382-b5b0-871ade942e59.jpg?v=1720766105",
+        "https://www.westside.com/cdn/shop/files/NEW_TRENDS_Web_6c9e14e0-8146-402e-bd6d-ffcefa1d8ed9.jpg?v=1720764331",
+        "https://www.westside.com/cdn/shop/files/Footwear_Web_a13a9b6b-e05a-4667-88b3-c9b129b70d72.jpg?v=1719994115",
+        "https://www.westside.com/cdn/shop/files/MAN_Web_a15de1ee-51de-4a22-89a1-2aeeac9ae9ff.jpg?v=1720767468",
+        "https://www.westside.com/cdn/shop/files/NEW_TRENDS_Web_287cc49f-9d1e-4ef1-8ef9-7d327f6294f9.jpg?v=1720767580",
+        "https://www.westside.com/cdn/shop/files/MENS_ESSENTIALS_Web.jpg?v=1720767706",
+        "https://www.westside.com/cdn/shop/files/CASUAL_SHIRTS_Web_7c238ac0-de5f-445c-94cb-36aba133e522.jpg?v=1720767802",
+        "https://www.westside.com/cdn/shop/files/T-SHIRTS_Web_d441647b-e315-47e0-922e-d7540f24fd51.jpg?v=1720768055",
+        "https://www.westside.com/cdn/shop/files/CASUAL_BOTTOMS_Web_ceccd4db-372a-452b-a398-dbdf9907f7d5.jpg?v=1720768220",
+        "https://www.westside.com/cdn/shop/files/DENIM_Web_a5b823d9-56b7-4afb-867e-21967be4cc58.jpg?v=1720768779",
+        "https://www.westside.com/cdn/shop/files/FOOTWEAR_Web_3de5ac95-e129-4d56-adfd-9d238e37c824.jpg?v=1720768981",
+        "https://www.westside.com/cdn/shop/files/Footwear_Web_1a73479f-7b5f-4632-929d-686285c337f7.jpg?v=1719571441",
+        "https://www.westside.com/cdn/shop/files/ETHNIC_Web_187ec700-ed9e-410f-be88-2c9433cdb123.jpg?v=1720770779",
+        "https://www.westside.com/cdn/shop/files/ETHNIC_SUITS_Web.jpg?v=1720770970",
+        "https://www.westside.com/cdn/shop/files/WORKWEAR_WARDROBE_Web_6a18e5c6-1554-4c55-9c40-bbb06340208b.jpg?v=1720771039",
+        "https://www.westside.com/cdn/shop/files/ETHNIC_BOTTOMS_Web_d678f569-6d95-4f3e-81c4-3dffd61ca872.jpg?v=1720771333",
+        "https://www.westside.com/cdn/shop/files/KURTIS_TUNICS__Web_18d8511a-8aff-4eb0-bc88-32c62e68e359.jpg?v=1720771542",
+        "https://www.westside.com/cdn/shop/files/BOHO_TRENDS_Web_b9a9fa7f-7526-478a-9356-e052aca9fc71.jpg?v=1720771615",
+        "https://www.westside.com/cdn/shop/files/ETHNIC_DRESSES_Web_afff1fa7-ea35-47c4-b650-e93f0a7dbee4.jpg?v=1720771740",
+        "https://www.westside.com/cdn/shop/files/Footwear_Web_8af76cbc-3fb9-402f-aab6-bee7fac6b02c.jpg?v=1720771805",
+        "https://www.westside.com/cdn/shop/files/BEAUTY_Web_5047faf6-3c52-46f5-9fbe-e91c5509d213.jpg?v=1720770518",
+        "https://www.westside.com/cdn/shop/files/SKINCARE_Web_6548b0a6-9809-405d-b8a8-ba1b4440c937.jpg?v=1720770616",
+        "https://www.westside.com/cdn/shop/files/FRAGRANCES_Web_18fba33a-4568-44bf-9e06-d1f34c9bd936.jpg?v=1720770471",
+        "https://www.westside.com/cdn/shop/files/GIFT_SHOP_Web_a1e1fa4b-e9fa-4081-a6fb-68c985da721a.jpg?v=1720770163",
+        "https://www.westside.com/cdn/shop/files/KITCHEN_Web_d9ec4241-bc47-4019-8dd0-ba131718ba77.jpg?v=1720770256",
+        "https://www.westside.com/cdn/shop/files/BATH_Web_bb9c8217-6b52-4b2d-bb65-d9e8ad3e4e7b.jpg?v=1720770370"
+      ],
+      "id": "68f6"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300987459RED_1.jpg?v=1721382196",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300987459RED_2.jpg?v=1721382260",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300987459RED_3.jpg?v=1721382180",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300987459RED_1.jpg?v=1721382196"
+      ],
+      "tag": "New",
+      "brand": "Wardrobe",
+      "name": "Wardrobe Red Foliage Design Shirt with Camisole",
+      "price": "₹ 1,299.00",
+      "category": "Women"
+    },
+    {
+      "id": "2",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300985720CHOCOLATE_1.jpg?v=1721462244",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300985720CHOCOLATE_2.jpg?v=1721462249",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300985720CHOCOLATE_3.jpg?v=1721462177",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300985720CHOCOLATE_1.jpg?v=1721462244"
+      ],
+      "tag": "New",
+      "brand": "LOV",
+      "name": "LOV Dark Brown Waistcoat-Style Blended Linen Top",
+      "price": "₹ 1,299.00",
+      "category": "Women"
+    },
+    {
+      "id": "3",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300985721WHITE_1.jpg?v=1721462207",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300985721WHITE_2.jpg?v=1721462278",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300985721WHITE_3.jpg?v=1721462206",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300985721WHITE_1.jpg?v=1721462207"
+      ],
+      "tag": "New",
+      "brand": "LOV",
+      "name": "LOV White Waistcoat-Style Top",
+      "price": "₹ 1,299.00",
+      "category": "Women"
+    },
+    {
+      "id": "4",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300973510BLACK_1.jpg?v=1708609418",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300973510BLACK_2.jpg?v=1708609610",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300973510BLACK_3.jpg?v=1708609416",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300973510BLACK_1.jpg?v=1708609418"
+      ],
+      "tag": "",
+      "brand": "Wardrobe",
+      "name": "Wardrobe Black Printed Cotton Shirt",
+      "price": "₹ 1,499.00",
+      "category": "Women"
+    },
+    {
+      "id": "5",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300985527ORANGEBLACK_1.jpg?v=1720439759",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300985527ORANGEBLACK_2.jpg?v=1720439759",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300985527ORANGEBLACK_3.jpg?v=1720439759",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300985527ORANGEBLACK_1.jpg?v=1720439759"
+      ],
+      "tag": "New",
+      "brand": "Wardrobe",
+      "name": "Wardrobe Black Floral Printed Shirt",
+      "price": "₹ 1,499.00",
+      "category": "Women"
+    },
+    {
+      "id": "6",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300981920NAVY_1.jpg?v=1718272169",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300981920NAVY_2.jpg?v=1718272186",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300981920NAVY_3.jpg?v=1718272171",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300981920NAVY_1.jpg?v=1718272169"
+      ],
+      "tag": "New",
+      "brand": "Wardrobe",
+      "name": "Wardrobe Navy Embroidered Blouse",
+      "price": "₹ 1,499.00",
+      "category": "Women"
+    },
+    {
+      "id": "7",
+      "image": [
+        "https://www.westside.com/cdn/shop/files/300981654IVORYBLUE_1.jpg?v=1717676066&width=493",
+        "https://www.westside.com/cdn/shop/files/300981654IVORYBLUE_2.jpg?v=1717676278&width=493",
+        "https://www.westside.com/cdn/shop/files/300981654IVORYBLUE_4.jpg?v=1717676066&width=493",
+        "https://www.westside.com/cdn/shop/files/300981654IVORYBLUE_1.jpg?v=1717676066&width=493"
+      ],
+      "tag": "New",
+      "brand": "Wardrobe",
+      "name": "Wardrobe Black Floral Printed Shirt",
+      "price": "₹ 1,499.00",
+      "category": "Women"
+    },
+    {
+      "id": "8",
+      "image": [
+        "https://www.westside.com/cdn/shop/files/300960965BLACK_1.jpg?v=1707400355&width=493",
+        "https://www.westside.com/cdn/shop/files/300960965BLACK_2.jpg?v=1707400354&width=493",
+        "https://www.westside.com/cdn/shop/files/300960965BLACK_3.jpg?v=1707400354&width=493",
+        "https://www.westside.com/cdn/shop/files/300960965BLACK_1.jpg?v=1707400355&width=493"
+      ],
+      "tag": "New",
+      "brand": "Wardrobe",
+      "name": "Wardrobe Navy Embroidered Blouse",
+      "price": "₹ 1,499.00",
+      "category": "Women"
+    },
+    {
+      "id": "9",
+      "image": [
+        "https://www.westside.com/cdn/shop/products/300938019MIDBLUE_1.jpg?v=1685625161&width=493",
+        "https://www.westside.com/cdn/shop/products/300938019MIDBLUE_3.jpg?v=1685625161&width=493",
+        "https://www.westside.com/cdn/shop/products/300938019MIDBLUE_4.jpg?v=1685625161&width=493",
+        "https://www.westside.com/cdn/shop/products/300938019MIDBLUE_1.jpg?v=1685625161&width=493"
+      ],
+      "tag": "New",
+      "brand": "Wardrobe",
+      "name": "LOV Mid Blue Straight - Fit Mid - Rise Jeans",
+      "price": "₹ 1,499.00",
+      "category": "Women"
+    },
+    {
+      "id": "10",
+      "image": [
+        "https://www.westside.com/cdn/shop/files/300960932CHOCOLATE_1.jpg?v=1702559498&width=493",
+        "https://www.westside.com/cdn/shop/files/300960932CHOCOLATE_2.jpg?v=1702559500&width=493",
+        "https://www.westside.com/cdn/shop/files/300960932CHOCOLATE_3.jpg?v=1702559498&width=493",
+        "https://www.westside.com/cdn/shop/files/300960932CHOCOLATE_1.jpg?v=1702559498&width=493"
+      ],
+      "tag": "New",
+      "brand": "Wardrobe",
+      "name": "LOV Brown Schiffli Cotton Shirt Dress with Belt",
+      "price": "₹ 1,899.00",
+      "category": "Women"
+    },
+    {
+      "id": "11",
+      "image": [
+        "https://www.westside.com/cdn/shop/files/300961786BROWN_1.jpg?v=1705581479&width=493",
+        "https://www.westside.com/cdn/shop/files/300961786BROWN_2.jpg?v=1705581487&width=493",
+        "https://www.westside.com/cdn/shop/files/300961786BROWN_3.jpg?v=1705581479&width=493",
+        "https://www.westside.com/cdn/shop/files/300961786BROWN_1.jpg?v=1705581479&width=493"
+      ],
+      "tag": "New",
+      "brand": "Wardrobe",
+      "name": "LOV Brown Schiffli Cotton Shirt Dress with Belt",
+      "price": "₹ 1,899.00",
+      "category": "Women"
+    },
+    {
+      "id": "12",
+      "image": [
+        "https://www.westside.com/cdn/shop/files/300968293BLACK_1.jpg?v=1708000820&width=493",
+        "https://www.westside.com/cdn/shop/files/300968293BLACK_2.jpg?v=1708000901&width=493",
+        "https://www.westside.com/cdn/shop/files/300968293BLACK_3.jpg?v=1708000820&width=493",
+        "https://www.westside.com/cdn/shop/files/300968293BLACK_1.jpg?v=1708000820&width=493"
+      ],
+      "tag": "New",
+      "brand": "Wardrobe",
+      "name": "LOV Black Schiffile Cotton Top",
+      "price": "₹ 899.00",
+      "category": "Women"
+    },
+    {
+      "id": "13",
+      "image": [
+        "https://www.westside.com/cdn/shop/files/300985357DENIMMIDBLUE_1.jpg?v=1720612605&width=493",
+        "https://www.westside.com/cdn/shop/files/300985357DENIMMIDBLUE_2.jpg?v=1720612801&width=493",
+        "https://www.westside.com/cdn/shop/files/300985357DENIMMIDBLUE_3.jpg?v=1720612594&width=493",
+        "https://www.westside.com/cdn/shop/files/300985357DENIMMIDBLUE_1.jpg?v=1720612605&width=493"
+      ],
+      "tag": "New",
+      "brand": "Wardrobe",
+      "name": "LOV Black Schiffile Cotton Top",
+      "price": "₹ 899.00",
+      "category": "Women"
+    },
+    {
+      "id": "14",
+      "image": [
+        "https://www.westside.com/cdn/shop/files/300987399NUT_1.jpg?v=1720704524&width=493",
+        "https://www.westside.com/cdn/shop/files/300987399NUT_2.jpg?v=1720704721&width=493",
+        "https://www.westside.com/cdn/shop/files/300987399NUT_3.jpg?v=1720704522&width=493",
+        "https://www.westside.com/cdn/shop/files/300987399NUT_1.jpg?v=1720704524&width=493"
+      ],
+      "tag": "New",
+      "brand": "Wardrobe",
+      "name": "LOV Black Schiffile Cotton Top",
+      "price": "₹ 899.00",
+      "category": "Women"
+    },
+    {
+      "id": "15",
+      "image": [
+        "https://www.westside.com/cdn/shop/files/300982300OLIVE_1.jpg?v=1718189592&width=493",
+        "https://www.westside.com/cdn/shop/files/300982300OLIVE_2.jpg?v=1718192858&width=493",
+        "https://www.westside.com/cdn/shop/files/300982300OLIVE_3.jpg?v=1718192858&width=493",
+        "https://www.westside.com/cdn/shop/files/300982300OLIVE_1.jpg?v=1718189592&width=493"
+      ],
+      "tag": "New",
+      "brand": "Wardrobe",
+      "name": "LOV Black Schiffile Cotton Top",
+      "price": "₹ 899.00",
+      "category": "Women"
+    },
+    {
+      "id": "16",
+      "image": [
+        "https://www.westside.com/cdn/shop/files/300967911BLACK_1.jpg?v=1708609156&width=493",
+        "https://www.westside.com/cdn/shop/files/300967911BLACK_2.jpg?v=1708609156&width=493",
+        "https://www.westside.com/cdn/shop/files/300967911BLACK_4.jpg?v=1708609156&width=493",
+        "https://www.westside.com/cdn/shop/files/300967911BLACK_1.jpg?v=1708609156&width=493"
+      ],
+      "tag": "New",
+      "brand": "Wardrobe",
+      "name": "Wardrobe Pearl Embellished Black Cotton Shirt",
+      "price": "₹1,499.00",
+      "category": "Women"
+    },
+    {
+      "id": "17",
+      "image": [
+        "https://www.westside.com/cdn/shop/files/300968017WHITE_1.jpg?v=1708000766&width=493",
+        "https://www.westside.com/cdn/shop/files/300968017WHITE_2.jpg?v=1708000767&width=493",
+        "https://www.westside.com/cdn/shop/files/300968017WHITE_3.jpg?v=1708000766&width=493",
+        "https://www.westside.com/cdn/shop/files/300968017WHITE_1.jpg?v=1708000766&width=493"
+      ],
+      "tag": "New",
+      "brand": "Wardrobe",
+      "name": "LOV White Sequined Embroidered Cotton Shirt",
+      "price": "₹1,299.00",
+      "category": "Women"
+    },
+    {
+      "id": "18",
+      "image": [
+        "https://www.westside.com/cdn/shop/files/300969756DKBEIGE_1.jpg?v=1708609336&width=493",
+        "https://www.westside.com/cdn/shop/files/300969756DKBEIGE_2.jpg?v=1708609271&width=493",
+        "https://www.westside.com/cdn/shop/files/300969756DKBEIGE_3.jpg?v=1708609265&width=493",
+        "https://www.westside.com/cdn/shop/files/300969756DKBEIGE_1.jpg?v=1708609336&width=493"
+      ],
+      "tag": "New",
+      "brand": "Wardrobe",
+      "name": "LOV Beige Printed Cotton Shirt",
+      "price": "₹1,299.00",
+      "category": "Women"
+    },
+    {
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300980272YELLOW_1.jpg?v=1719493668",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300980272YELLOW_2.jpg?v=1719493668",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300980272YELLOW_3.jpg?v=1719493668",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300980272YELLOW_1.jpg?v=1719493668"
+      ],
+      "price": "₹ 999.00",
+      "id": "300980272",
+      "category": "Men",
+      "name": "Nuon Yellow Tie-Dye Knitted Relaxed-Fit Shirt"
+    },
+    {
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300980271BROWN_1.jpg?v=1720612709",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300980271BROWN_2.jpg?v=1720612701",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300980271BROWN_3.jpg?v=1720613025",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300980271BROWN_1.jpg?v=1720612709"
+      ],
+      "price": "₹ 999.00",
+      "id": "300980271",
+      "category": "Men",
+      "name": "Nuon Brown Abstract Design Relaxed-Fit Shirt"
+    },
+    {
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300982178ORANGE_1.jpg?v=1720612694",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300982178ORANGE_2.jpg?v=1720613094",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300982178ORANGE_3.jpg?v=1720612715",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300982178ORANGE_1.jpg?v=1720612694"
+      ],
+      "price": "₹ 999.00",
+      "id": "300982178",
+      "category": "Men",
+      "name": "Nuon Multicolour Abstract Print Relaxed-Fit Shirt"
+    },
+    {
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300979959BLACK_1.jpg?v=1719493411",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300979959BLACK_2.jpg?v=1719493485",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300979959BLACK_3.jpg?v=1719493411",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300979959BLACK_1.jpg?v=1719493411"
+      ],
+      "price": "₹ 999.00",
+      "id": "300979959",
+      "category": "Men",
+      "name": "Nuon Black Abstract Design Textured Relaxed-Fit Shirt"
+    },
+    {
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300977382BEIGE_1.jpg?v=1720526827",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300977382006_2.jpg?v=1720440697",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300977382BEIGE_2.jpg?v=1720526828",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300977382BEIGE_1.jpg?v=1720526827"
+      ],
+      "price": "₹ 1,499.00",
+      "id": "300977382",
+      "category": "Men",
+      "name": "Nuon Beige Relaxed-Fit Mid-Rise Cotton Blend Chinos"
+    },
+    {
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986750GREY_1.jpg?v=1721462177",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986750GREY_2.jpg?v=1721462189",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986750GREY_3.jpg?v=1721462173",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986750GREY_1.jpg?v=1721462177"
+      ],
+      "price": "₹ 1,299.00",
+      "id": "300986750",
+      "category": "Men",
+      "name": "WES Casuals Beige Leaf Printed Slim-Fit Cotton Shirt"
+    },
+    {
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300984529TEAL_1.jpg?v=1720705050",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300984529TEAL_2.jpg?v=1720704995",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300984529TEAL_3.jpg?v=1720704979",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300984529TEAL_1.jpg?v=1720705050"
+      ],
+      "price": "₹ 1,299.00",
+      "id": "300984529",
+      "category": "Men",
+      "name": "WES Casuals Teal Leaf Printed Slim-Fit Cotton Shirt"
+    },
+    {
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986759BLUE_1.jpg?v=1721281804",
+        "https://www.westside.com/cdn/shop/files/300986759BLUE_3.jpg?v=1721281864&width=493",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986759BLUE_2.jpg?v=1721281857",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986759BLUE_1.jpg?v=1721281804"
+      ],
+      "price": "₹ 1,299.00",
+      "id": "300986759",
+      "category": "Men",
+      "name": "ETA Blue Houndstooth Design Relaxed-Fit Cotton Shirt"
+    },
+    {
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983812TAUPE_1.jpg?v=1721462109",
+        "https://www.westside.com/cdn/shop/files/300983812TAUPE_2.jpg?v=1721462109&width=493",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983812TAUPE_2.jpg?v=1721462109",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983812TAUPE_1.jpg?v=1721462109"
+      ],
+      "price": "₹ 1,499.00",
+      "id": "300983812",
+      "category": "Men",
+      "name": "ETA Taupe Relaxed-Fit Mid-Rise Cotton Chinos"
+    },
+    {
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986760SAGE_1.jpg?v=1721281865",
+        "https://www.westside.com/cdn/shop/files/300986760SAGE_3.jpg?v=1721281846&width=493",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986760SAGE_2.jpg?v=1721281990",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986760SAGE_1.jpg?v=1721281865"
+      ],
+      "price": "₹ 1,499.00",
+      "id": "300986760",
+      "category": "Men",
+      "name": "ETA Sage Crochet Detailed Relaxed-Fit Cotton Shirt"
+    },
+    {
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300984607BEIGE_1.jpg?v=1721382190",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300984607BEIGE_2.jpg?v=1721382240",
+        "https://www.westside.com/cdn/shop/files/300984607BEIGE_3.jpg?v=1721382188&width=493",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300984607BEIGE_1.jpg?v=1721382190"
+      ],
+      "price": "₹ 899.00",
+      "id": "300984607",
+      "category": "Men",
+      "name": "WES Casuals Beige Knitted Relaxed-Fit Cotton Polo T-Shirt"
+    },
+    {
+      "id": "300965932",
+      "category": "suits",
+      "name": "Vark Green Embellished Kurta & Palazzos Set",
+      "price": "₹ 2,299.00",
+      "sale_price": "₹ 999.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300965932GREEN_1.jpg?v=1708000150",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300965932GREEN_2.jpg?v=1708000150",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300965932GREEN_3.jpg?v=1708000150"
+      ]
+    },
+    {
+      "id": "300965933",
+      "category": "suits",
+      "name": "Vark Pink Printed Kurta & Palazzos Set",
+      "price": "₹ 2,299.00",
+      "sale_price": "₹ 999.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300965933PINK_1.jpg?v=1708608957",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300965933PINK_2.jpg?v=1708608956",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300965933PINK_3.jpg?v=1708608965"
+      ]
+    },
+    {
+      "id": "300968604",
+      "category": "suits",
+      "name": "Vark Pink Glitter Printed Kaftan Set",
+      "price": "₹ 1,999.00",
+      "sale_price": "₹ 999.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300968604PINK_3.jpg?v=1712228848",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300968604PINK_1.jpg?v=1712228848",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300968604PINK_2.jpg?v=1712228848"
+      ]
+    },
+    {
+      "id": "300968493",
+      "category": "suits",
+      "name": "Vark Blue Glitter Printed Cord Set",
+      "price": "₹ 1,999.00",
+      "sale_price": "₹ 999.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300968493BLUE_1.jpg?v=1708609219",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300968493BLUE_2.jpg?v=1708609218",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300968493BLUE_3.jpg?v=1708609217"
+      ]
+    },
+    {
+      "id": "300968494",
+      "category": "suits",
+      "name": "Vark Green Glitter Printed Cord Set",
+      "price": "₹ 1,999.00",
+      "sale_price": "₹ 999.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300968494SAGE_1.jpg?v=1708609221",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300968494SAGE_2.jpg?v=1708609293",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300968494SAGE_3.jpg?v=1708609225"
+      ]
+    },
+    {
+      "id": "300974191",
+      "category": "suits",
+      "name": "Vark Lime Embellished Kaftan, Inner and Palazzos Set",
+      "price": "₹ 2,599.00",
+      "sale_price": "₹ 999.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300974191GREEN_1.jpg?v=1721382186",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300974191GREEN_2.jpg?v=1721382181",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300974191GREEN_3.jpg?v=1721382179"
+      ]
+    },
+    {
+      "id": "300974192",
+      "category": "suits",
+      "name": "Vark Light Pink Embellished Kaftan, Inner and Palazzos Set",
+      "price": "₹ 2,599.00",
+      "sale_price": "₹ 999.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300974192LILAC_1.jpg?v=1721382181",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300974192LILAC_2.jpg?v=1721382238",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300974192LILAC_3.jpg?v=1721382356"
+      ]
+    },
+    {
+      "id": "300965931",
+      "category": "suits",
+      "name": "Vark Green Embellished Kurta & Palazzos Set",
+      "price": "₹ 2,299.00",
+      "sale_price": "₹ 999.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300965931BLUE_1.jpg?v=1708000088",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300965931BLUE_2.jpg?v=1708000088",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300965931BLUE_3.jpg?v=1708000088"
+      ]
+    },
+    {
+      "id": "300970237",
+      "category": "suits",
+      "name": "Vark Green Printed Kurti, Palazzos and Dupatta Set",
+      "price": "₹ 3,299.00",
+      "sale_price": "₹ 1,499.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300970237SEAGREEN_1.jpg?v=1713437319",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300970237SEAGREEN_2.jpg?v=1713437319",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300970237SEAGREEN_3.jpg?v=1713437300"
+      ]
+    },
+    {
+      "id": "300974523",
+      "category": "suits",
+      "name": "Vark White Embroidered Kurti With Front Slit Set",
+      "price": "₹ 4,999.00",
+      "sale_price": "₹ 1,999.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300974523OFFWHITE_1.jpg?v=1715847134",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300974523OFFWHITE_2.jpg?v=1715847134",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300974523OFFWHITE_3.jpg?v=1715847134"
+      ]
+    },
+    {
+      "id": "300974524",
+      "category": "suits",
+      "name": "Vark Peach Floral Embroidered Kurti With Front Slit Set",
+      "price": "₹ 4,999.00",
+      "sale_price": "₹ 1,999.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300974524ROSE_1.jpg?v=1715944929",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300974524ROSE_2.jpg?v=1715944929",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300974524ROSE_3.jpg?v=1715944929"
+      ]
+    },
+    {
+      "id": "300967260",
+      "category": "suits",
+      "name": "Vark Blue Foil Embellished Kurta Set",
+      "price": "₹ 2,599.00",
+      "sale_price": "₹ 999.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300967260BLUE_1.jpg?v=1709732090",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300967260BLUE_2.jpg?v=1709732090",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300967260BLUE_3.jpg?v=1709732090"
+      ]
+    },
+    {
+      "id": "300967261",
+      "category": "suits",
+      "name": "Vark Pink Printed Kurti Set",
+      "price": "₹ 2,599.00",
+      "sale_price": "₹ 999.00",
+      "image": [
+        "https://www.westside.com/cdn/shop/files/300968803PINK_1.jpg?v=1711023024&width=493",
+        "https://www.westside.com/cdn/shop/files/300968803PINK_2.jpg?v=1711023024&width=493",
+        "https://www.westside.com/cdn/shop/files/300968803PINK_3.jpg?v=1711023024&width=493"
+      ]
+    },
+    {
+      "id": "300969262",
+      "category": "suits",
+      "name": "Vark Blue Embellished Kaftan, Inner and Palazzos Set",
+      "price": "₹ 1,999.00",
+      "sale_price": "₹ 999.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300974190BLUE_1.jpg?v=1721382196",
+        "https://www.westside.com/cdn/shop/files/300974190BLUE_2.jpg?v=1721382258&width=493",
+        "https://www.westside.com/cdn/shop/files/300974190BLUE_3.jpg?v=1721382198&width=493"
+      ]
+    },
+    {
+      "id": "300974093",
+      "category": "suits",
+      "name": "Vark Green A-line Kurta, Palazzos and Dupatta Set",
+      "price": "₹ 2,299.00",
+      "sale_price": "₹ 999.00",
+      "image": [
+        "https://www.westside.com/cdn/shop/files/300967245GREEN_1.jpg?v=1712925660&width=493",
+        "https://www.westside.com/cdn/shop/files/300967245GREEN_2.jpg?v=1712925658&width=493",
+        "https://www.westside.com/cdn/shop/files/300967245GREEN_3.jpg?v=1712925658&width=493"
+      ]
+    },
+    {
+      "id": "300974094",
+      "category": "suits",
+      "name": "Vark Yellow Printed Kurta & Palazzos Set",
+      "price": "₹ 2,299.00",
+      "sale_price": "₹ 999.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300968804YELLOW_1.jpg?v=1720612652",
+        "https://www.westside.com/cdn/shop/files/300968804YELLOW_2.jpg?v=1720612470&width=493",
+        "https://www.westside.com/cdn/shop/files/300968804YELLOW_3.jpg?v=1720612658&width=493"
+      ]
+    },
+    {
+      "id": "300983672001",
+      "category": "homes",
+      "name": "Westside Home Off-White Paper Mache Decorative Bowl",
+      "price": "₹ 799.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983672001_1.jpg?v=1721292994",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983672001_2.jpg?v=1721292941",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983672001_3.jpg?v=1721292945"
+      ],
+      "href": "https://www.westside.com/collections/home/products/westside-home-off-white-paper-mache-decorative-bowl-300983672001"
+    },
+    {
+      "id": "300983964001",
+      "category": "homes",
+      "name": "Westside Home Gold Diamond Embossed Planter with Stand",
+      "price": "₹ 1,999.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983964001_1.jpg?v=1721292937",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983964001_2.jpg?v=1721292943",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983964001_3.jpg?v=1721292942"
+      ],
+      "href": "https://www.westside.com/collections/home/products/westside-home-gold-diamond-embossed-planter-with-stand-300983964001"
+    },
+    {
+      "id": "300983551001",
+      "category": "homes",
+      "name": "Westside Home Dark Green Buddha Dhyan Decorative Accessory",
+      "price": "₹ 499.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983551001_1.jpg?v=1721292935",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983551001_2.jpg?v=1721292924",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983551001_3.jpg?v=1721292930"
+      ],
+      "href": "https://www.westside.com/collections/home/products/westside-home-dark-green-buddha-dhyan-decorative-accessory-300983551001"
+    },
+    {
+      "id": "300983542001",
+      "category": "homes",
+      "name": "Westside Home Green Globe Bookend with Wooden Base",
+      "price": "₹ 1,199.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983542001_1.jpg?v=1721292937",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983542001_2.jpg?v=1721292942",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983542001_3.jpg?v=1721293004"
+      ],
+      "href": "https://www.westside.com/collections/home/products/westside-home-green-globe-bookend-with-wooden-base-300983542001"
+    },
+    {
+      "id": "300983334001",
+      "category": "homes",
+      "name": "Westside Home White Marble Leaf Design Decorative Platter",
+      "price": "₹ 999.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983334001_1.jpg?v=1721292936",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983334001_2.jpg?v=1721292923",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983334001_3.jpg?v=1721292936"
+      ],
+      "href": "https://www.westside.com/collections/home/products/westside-home-white-marble-leaf-design-decorative-platter-300983334001"
+    },
+    {
+      "id": "300986009001",
+      "category": "homes",
+      "name": "Westside Home Gold Floral Etched Cross Planter with Stand",
+      "price": "₹ 1,499.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986009001_1.jpg?v=1720619167",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986009001_2.jpg?v=1720619167",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986009001_3.jpg?v=1720619165"
+      ],
+      "href": "https://www.westside.com/collections/home/products/westside-home-gold-floral-etched-cross-planter-with-stand-300986009001"
+    },
+    {
+      "id": "300983145001",
+      "category": "homes",
+      "name": "Westside Home Gold Metal Sculpture on Stand",
+      "price": "₹ 1,299.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983145001_1.jpg?v=1721292943",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983145001_2.jpg?v=1721292929",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983145001_3.jpg?v=1721293004"
+      ],
+      "href": "https://www.westside.com/collections/home/products/westside-home-gold-metal-sculpture-on-stand-300983145001"
+    },
+    {
+      "id": "300983148001",
+      "category": "homes",
+      "name": "Westside Home Gold Textured Planter- Large",
+      "price": "₹ 1,099.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983148001_1.jpg?v=1721292986",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983148001_2.jpg?v=1721292987",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983148001_3.jpg?v=1721292997"
+      ],
+      "href": "https://www.westside.com/collections/home/products/westside-home-gold-textured-planter-large-300983148001"
+    },
+    {
+      "id": "300986001001",
+      "category": "homes",
+      "name": "Westside Home Gold Metal Flower Decorative Accessory",
+      "price": "₹ 699.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986001001_1.jpg?v=1721292929",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986001001_2.jpg?v=1721292932",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300986001001_3.jpg?v=1721292938"
+      ],
+      "href": "https://www.westside.com/collections/home/products/westside-home-gold-metal-flower-decorative-accessory-300986001001"
+    },
+    {
+      "id": "300983147001",
+      "category": "homes",
+      "name": "Westside Home Dusty Blue Fretwork Design Lantern",
+      "price": "₹ 699.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983147001_1.jpg?v=1721292943",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983147001_2.jpg?v=1721292985",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983147001_3.jpg?v=1721292935"
+      ],
+      "href": "https://www.westside.com/collections/home/products/westside-home-dusty-blue-fretwork-design-lantern-300983147001"
+    },
+    {
+      "id": "300983344001",
+      "category": "homes",
+      "name": "Westside Home Beige Marble Jug Vase",
+      "price": "₹ 1,699.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983344001_1.jpg?v=1721292935",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983344001_2.jpg?v=1721292938",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983344001_3.jpg?v=1721292935"
+      ],
+      "href": "https://www.westside.com/collections/home/products/westside-home-beige-marble-jug-vase-300983344001"
+    },
+    {
+      "id": "300983732003",
+      "category": "homes",
+      "name": "Westside Home Dark Red Solid Single Bed Flat Sheet and Pillowcase Set",
+      "price": "₹ 999.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983732003_1.jpg?v=1721817579",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983732003_2.jpg?v=1721817586",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983732003_3.jpg?v=1721817592"
+      ]
+    },
+    {
+      "id": "300983732007",
+      "category": "homes",
+      "name": "Westside Home Dark Red Solid Double Bed Flat Sheet and Pillowcase Set",
+      "price": "₹ 1,499.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983732007_1.jpg?v=1721817586",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983732007_2.jpg?v=1721817597",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983732007_3.jpg?v=1721817584"
+      ]
+    },
+    {
+      "id": "300983732008",
+      "category": "homes",
+      "name": "Westside Home Dusty Blue Double Bed Flat Sheet and Pillowcase Set",
+      "price": "₹ 1,499.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983732008_1.jpg?v=1721381070",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983732008_2.jpg?v=1721381070",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300983732008_3.jpg?v=1721381070"
+      ]
+    },
+    {
+      "id": "300977002003",
+      "category": "homes",
+      "name": "Westside Home Dark Blue Printed King Bed Flat Sheet and Pillowcase Set",
+      "price": "₹ 1,699.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300977002003_1.jpg?v=1721380338",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300977002003_2.jpg?v=1721380338",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300977002003_3.jpg?v=1721380338"
+      ]
+    },
+    {
+      "id": "300977002002",
+      "category": "homes",
+      "name": "Westside Home Dark Blue Double Bed Flat Sheet and Pillowcase Set",
+      "price": "₹ 1,499.00",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300977002002_1.jpg?v=1721380279",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300977002002_2.jpg?v=1721380279",
+        "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300977002002_3.jpg?v=1721380279"
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "id": "6c9f",
+      "productId": "300965932",
+      "quantity": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300965932GREEN_1.jpg?v=1708000150",
+      "title": "Vark Green Embellished Kurta & Palazzos Set",
+      "price": "₹ 2,299.00"
+    }
+  ]
+}
